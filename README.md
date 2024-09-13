@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Alyssa Khairunisa Maharani</h1>
 <h3 align="center">I'm a Student College from Universitas Sriwijaya</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lalisa24&label=Profile%20views&color=0e75b6&style=flat" alt="lalisa24" /> </p>
+</p>
+<p align="center">
+  I have skills in Microsoft, Java, and Python. Currently. I am a Certified Network Associate (MTCNA) from Mikrotik 
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lalisa24" alt="lalisa24" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lalisa24&label=Profile%20views&color=0e75b6&style=flat" alt="lalisa24" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lalisa24" alt="lalisa24" /></a> </p>
 
 - 🔭 I’m currently Learning on **Universitas Sriwijaya, Computer Science Major**
 
@@ -36,6 +41,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lalisa24&show_icons=true&locale=en&layout=compact" alt="lalisa24" /></p>
+<h2 align="center">GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lalisa24&show_icons=true&theme=tokyonight" alt="github stats" width="50%" align="left"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lalisa24&theme=dark" width="50%" align="left">
+</p>
+<p align="center">
+  <a href="https://github.com/Lalisa24" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalisa24&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lalisa24&show_icons=true&locale=en" alt="lalisa24" /></p>
+<h3 align="center">Thanks for visit my Profile!</h3>
