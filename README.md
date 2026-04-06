@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with **Everything**
 
-- 👨‍💻 All of my projects are available at [https://docs.google.com/presentation/d/1b5Yg-oWXULeVq-DVkr2AICoFnAdKOfhr/edit?usp=drive_link&ouid=103417953896276502307&rtpof=true&sd=true](https://docs.google.com/presentation/d/1b5Yg-oWXULeVq-DVkr2AICoFnAdKOfhr/edit?usp=drive_link&ouid=103417953896276502307&rtpof=true&sd=true)
+- 👨‍💻 All of my projects are available at [[https://docs.google.com/presentation/d/1b5Yg-oWXULeVq-DVkr2AICoFnAdKOfhr/edit?usp=drive_link&ouid=103417953896276502307&rtpof=true&sd=true](https://docs.google.com/presentation/d/1paJu05TRfjCpwJURSIkpw3UOx4_VpJMC/edit?usp=sharing&ouid=103417953896276502307&rtpof=true&sd=true)
 
 - 📝 I regularly write articles on [-](-)
 
